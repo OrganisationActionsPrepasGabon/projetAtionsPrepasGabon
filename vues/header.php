@@ -48,9 +48,7 @@
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Adherer <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">
                                 <li><a href="#">Partenaire</a></li>
-                                <li><a href="#">Adherant</a></li>
-                                <li><a href="#">Actif rataché à un service</a></li>
-                                <li><a href="#">Poste à Responsabilité</a></li>
+                                <li><a href="?page=adherer">Adherant</a></li>
                             </ul>
                         </li>
                         <li><a href="?page=connexion">Connexion</a></li> 

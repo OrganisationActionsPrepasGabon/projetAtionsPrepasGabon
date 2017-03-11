@@ -1,4 +1,5 @@
- <section id="partner">
+
+ <section id="partner" style="margin-top:70px;"> 
         <div class="container">
             <div class="center wow fadeInDown">
                 <h2>Nos Partenaires</h2>

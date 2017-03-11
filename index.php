@@ -3,8 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="apg SITE">
+    <meta name="author" content="Terrence SOUMBOU">
     <title>Home | Action Gabon Prepas</title>
 	
 	<!-- core CSS -->
@@ -37,7 +37,7 @@
     }
     else
     {
-        include('controller/accueil.php');
+        include('controller/404.php');
               
     }
     
@@ -51,5 +51,6 @@
     <script src="js/jquery.isotope.min.js"></script>
     <script src="js/main.js"></script>
     <script src="js/wow.min.js"></script>
+	
 </body>
 </html>
