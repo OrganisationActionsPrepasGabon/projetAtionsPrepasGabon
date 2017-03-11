@@ -142,7 +142,7 @@
 						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/man2.jpg" alt=""></a>
+									<a href="#"><img class="media-object" src="images/man6.png" alt=""></a>
 								</div>
 								<div class="media-body">
 									<h4>Jhon Doe</h4>
