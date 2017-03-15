@@ -1,7 +1,7 @@
     <section id="contact-info">
         <div class="center">                
             <h2>Où nous trouver?</h2>
-            <p class="lead">Nous sommes situé à l'adresse suivante</p>
+            <p class="lead">Nous vous accueillons chaque dernier samedi du mois</p>
         </div>
         <div class="gmap-area">
             <div class="container">
@@ -16,11 +16,10 @@
                         <ul class="row">
                             <li class="col-sm-6">
                                 <address>
-                                    <h5>Head Office</h5>
-                                    <p>1537 Flint Street <br>
-                                    Tumon, MP 96911</p>
-                                    <p>Phone:670-898-2847 <br>
-                                    Email Address:info@domain.com</p>
+                                    <h5>Asniere-Sur-seine</h5>
+                                    <p>53 Rue de la comete 92600 <br></p>
+                                    <p>Phone:+33(0)751 805 753 <br>
+                                    Email Address:contact@a-prepasgabon.com</p>
                                 </address>
                             </li>
                         </ul>

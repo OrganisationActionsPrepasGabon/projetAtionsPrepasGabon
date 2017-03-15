@@ -3,6 +3,8 @@
             <div class="center wow fadeInDown">
                 <h2>Actualités</h2>
                 <p class="lead">Cette rubrique vous presente les évenements et faits divers qui sont à la une dans le quotidient de nos taupins</p>
+				<a href="https://www.youtube.com/watch?v=CLp8SpKFiVc">presentation via notre chaine youtube du taupins du mois</a>
+
             </div>
 
             <div class="row">
@@ -50,7 +52,7 @@
                         </div>
                         <div class="media-body">
                             <h3 class="media-heading">Le taupins du mois</h3>
-                            <p>presentation via notre chaine youtube du taupins du mois</p>
+                            <a href="https://www.youtube.com/watch?v=CLp8SpKFiVc">presentation via notre chaine youtube du taupins du mois</a>
                         </div>
                     </div>
                 </div>

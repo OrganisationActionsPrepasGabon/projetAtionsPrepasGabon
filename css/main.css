@@ -1232,7 +1232,7 @@ ul.social_icons li  a i{
 
 .team .social_icons .fa-facebook:hover, 
 .team .social_icons .fa-twitter:hover, 
-.team .social_icons .fa-google-plus:hover {
+.team .social_icons .fa-linkedin:hover {
   transform: rotate(360deg);
   -ms-transform:rotate(360deg);
   -webkit-transform:rotate(360deg); 
@@ -1254,7 +1254,9 @@ ul.social_icons li  a i{
   background: #20B8FF
 }
 
-.team .social_icons .fa-google-plus {
+
+
+.team .social_icons .fa-linkedin {
   background: #D34836
 }
 

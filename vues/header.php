@@ -43,7 +43,7 @@
                         <li class="active"><a href="?page=accueil">Accueil</a></li>
                         <li><a href="?page=association">Association</a></li>
                         <li><a href="?page=projets"">Projets</a></li>
-                        <li><a href="?page=annuaire">Annuaire</a></li>
+                        <li><a href="https://alumni.a-prepasgabon.com">Annuaire</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Adherer <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">

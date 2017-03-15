@@ -78,7 +78,7 @@
                         <div class="overlay">
                             <div class="recent-work-inner">
                                 <h3><a href="#">A la rencontre des taupins</a></h3>
-                                <p>C'est un projet qui permetra de decouvrir nos membres dans leur quotidient et activités professionnelles</p>
+                                <p>C'est une initiative qui permetra de decouvrir nos membres dans leur quotidient et activités professionnelles via notre snapchat </p>
                                 <a class="preview" href="images/portfolio/full/item6.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
                         </div>
