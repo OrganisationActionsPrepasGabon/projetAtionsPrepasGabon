@@ -7,7 +7,33 @@ jQuery(function($) {'use strict',
 		});
 	});
 
+	//menu de navigation
+	
+	$.urlParam = function(name){
+    var results = new RegExp('[\?&]' + name + '=([^]*)').exec(window.location.href);
+    if (results==null){
+       return null;
+    }
+    else{
+       return results[1] || 0;
+    }
+}
+	
 
+$(function() {
+	$('.'+ decodeURIComponent($.urlParam('page'))).addClass('active');
+	});
+	
+	
+/* 		$(function() {
+	alert("res");
+	alert(decodeURIComponent($.urlParam('page')));
+	$('#'+decodeURIComponent($.urlParam('page'))).parent().siblings().find('a.active').removeClass('active');
+	$('#'+decodeURIComponent($.urlParam('page')).addClass('active'); 
+				
+
+	}); */
+	
 	// accordian
 	$('.accordion-toggle').on('click', function(){
 		$(this).closest('.panel-group').children().each(function(){

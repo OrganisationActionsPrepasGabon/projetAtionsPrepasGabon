@@ -35,11 +35,9 @@
     {
         include 'controller/'.$_GET['page'].'.php';
     }
-    else
-    {
-        include('controller/404.php');
-              
-    }
+	else{
+		include('controller/404.php');
+	}
     
    include('vues/bottom.php');
 ?>

@@ -1,4 +1,5 @@
-    <header id="header">
+   
+   <header id="header">
         <div class="top-bar">
             <div class="container">
                 <div class="row">
@@ -39,20 +40,24 @@
                 </div>
 				
                 <div class="collapse navbar-collapse navbar-right">
-                    <ul class="nav navbar-nav">
-                        <li class="active"><a href="?page=accueil">Accueil</a></li>
-                        <li><a href="?page=association">Association</a></li>
-                        <li><a href="?page=projets"">Projets</a></li>
-                        <li><a href="https://alumni.a-prepasgabon.com">Annuaire</a></li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Adherer <i class="fa fa-angle-down"></i></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="#">Partenaire</a></li>
-                                <li><a href="?page=adherer">Adherant</a></li>
+                    <ul id="tabs" class="nav navbar-nav">
+                        <li class="accueil"><a href="?page=accueil">Accueil</a></li>
+                        <li class="association"><a href="?page=association">Association</a></li>
+                        <li class="dropdown projets"><a href="#">Projets <i class="fa fa-angle-down"></i></a>
+							<ul class="dropdown-menu">
+                                <li><a href="?page=realisation">Realisation</a></li>
+                                <li><a href="?page=enCours">En cours</a></li>
                             </ul>
-                        </li>
-                        <li><a href="?page=connexion">Connexion</a></li> 
-                        <li><a href="?page=contact">Contact</a></li>                        
+						</li>
+                        <li class="annuaire"> <a href="https://alumni.a-prepasgabon.com">Annuaire</a></li>
+                        <li class="adherer"><a href="?page=adherer">Adherer</a></li>
+                        <li class="don dropdown"><a href="#">Don ou Cotisation <i class="fa fa-angle-down"></i></a>
+							<ul class="dropdown-menu">
+                                <li><a href="https://www.paypal.com/webapps/hermes?token=0UA914906R040092D&useraction=commit&mfid=1489922200044_67b1b679f3b08#/checkout/login">PayPal</a></li>
+                                <li><a href="?page=virement">Virement Bancaire</a></li>
+                            </ul>
+						</li> 
+                        <li class="contact"><a href="?page=contact">Contact</a></li>                        
                     </ul>
                 </div>
             </div><!--/.container-->

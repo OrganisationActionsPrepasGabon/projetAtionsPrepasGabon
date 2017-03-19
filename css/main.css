@@ -303,9 +303,9 @@ input.search-form:hover {
   color: #fff;
 }
 
-.navbar-inverse .navbar-nav > .active > a,
-.navbar-inverse .navbar-nav > .active > a:hover,
-.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav > .active> a,
+.navbar-inverse .navbar-nav > .active> a:hover,
+.navbar-inverse .navbar-nav > .active> a:focus,
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {
@@ -2116,6 +2116,7 @@ ul.faq li > div h3 {
   border-radius: 0;
   overflow: hidden;
   margin-bottom: 50px;
+
 }
 
 .blog .blog-item .img-blog {
