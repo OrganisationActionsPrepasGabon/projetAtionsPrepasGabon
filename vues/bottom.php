@@ -5,7 +5,7 @@
                     <div class="widget">
                         <h3>Fondements</h3>
                         <ul>
-                            <li><a href="/Downloads/cv-103537_Carriere-info.pdf" download="status">Status</a></li>
+                            <li><a href="ressources/cv.pdf" download="status">Status</a></li>
                             <li><a href="#">Règlement intérieur</a></li>
 							 <li><a href="#">Membres Fondateurs</a></li>
 							 <li><a href="#">Edito</a></li>
