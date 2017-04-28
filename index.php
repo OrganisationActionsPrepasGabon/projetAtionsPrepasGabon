@@ -28,18 +28,41 @@
 <body class="homepage">
 
     <?php 
-
+          $info = parse_url($_SERVER['REQUEST_URI'], PHP_URL_QUERY);
+		 
     include('vues/header.php');
 	
-    if(isset($_GET['page'])&& !empty($_GET['page']) && is_file('controller/'.$_GET['page'].'.php'))
+    if(isset($info)&& !empty($info))
     {
-        include 'controller/'.$_GET['page'].'.php';
+		list($param,$page)=explode("=",$info,2);
+	$page = explode("=", $info)[1];
+		 if(is_file('controller/'.$page.'.php')){
+			include ('controller/'.$page.'.php');
+		 }else{
+			include('controller/404.php');
+		 }
     }
 	else{
-		include('controller/404.php');
+		include('controller/accueil.php');
 	}
     
    include('vues/bottom.php');
+   
+   
+    // $parsed_url = parse_url($_SERVER['REQUEST_URI'], PHP_URL_FRAGMENT);
+   // echo parse_url($_SERVER['REQUEST_URI'], PHP_URL_QUERY);
+   // include('vues/header.php');
+    // if(isset($parsed_url )&& !empty($parsed_url ) && is_file('controller/'.$parsed_url .'.php'))
+    // {
+        // include 'controller/'.$parsed_url .'.php';
+    // }
+	// else if(isset($_SERVER['REQUEST_URI']) && !empty($_SERVER['REQUEST_URI']) && !iseet(parse_url($_SERVER['REQUEST_URI'], PHP_URL_QUERY)){
+		// include('controller/accueil.php');
+	// }else{
+		// include('controller/404.php');
+	// }
+    
+   // include('vues/bottom.php');
 ?>
 
 

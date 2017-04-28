@@ -4,16 +4,16 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6 col-xs-4">
-                        <div class="top-number"><p><i class="fa fa-phone-square"></i>  +33 751 805 753</p></div>
+                        <div class="top-number"><p><i class="fa fa-phone-square"></i>  +337 51 80 57 53</p></div>
                     </div>
                     <div class="col-sm-6 col-xs-8">
                        <div class="social">
                             <ul class="social-share">
                                 <li><a href="https://www.facebook.com/ACTIONS-PREPAS-GABON-114794448584706/"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li> 
-                                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                <li><a href="?page="><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="?page="><i class="fa fa-linkedin"></i></a></li> 
+                                <li><a href="?page="><i class="fa fa-dribbble"></i></a></li>
+                                <li><a href="?page="><i class="fa fa-skype"></i></a></li>
                             </ul>
                             <div class="search">
                                 <form role="form">
@@ -36,8 +36,10 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="?page=accueil"><img src="images/logo.png" alt="logo"></a>
+					<a class="navbar-brand" href="?page=accueil"><img src="images/logA.png" alt="logo" style="height:84px; width:224px;" ></a>
+
                 </div>
+				
 				
                 <div class="collapse navbar-collapse navbar-right">
                     <ul id="tabs" class="nav navbar-nav">
@@ -51,9 +53,9 @@
 						</li>
                         <li class="annuaire"> <a href="https://alumni.a-prepasgabon.com">Annuaire</a></li>
                         <li class="adherer"><a href="?page=adherer">Adherer</a></li>
-                        <li class="don dropdown"><a href="#">Don ou Cotisation <i class="fa fa-angle-down"></i></a>
+                        <li class="don dropdown participation"><a href="#">Don ou Cotisation <i class="fa fa-angle-down"></i></a>
 							<ul class="dropdown-menu">
-                                <li><a href="https://www.paypal.com/webapps/hermes?token=0UA914906R040092D&useraction=commit&mfid=1489922200044_67b1b679f3b08#/checkout/login">PayPal</a></li>
+                                <li><a href="https://www.paypal.com/webapps/hermes?token=0UA914906R040092D&useraction=commit&mfid=1489922200044_67b1b679f3b08?page=/checkout/login">PayPal</a></li>
                                 <li><a href="?page=virement">Virement Bancaire</a></li>
                             </ul>
 						</li> 

@@ -96,7 +96,7 @@
                             <textarea name="assos" rows="10" cols="100">
 						    </textarea>
                         </div> 
-						<p>PRENEZ CONNAISSANCE DE <a href="#">NOS STATUS, REGLEMENT INTERIEUR ET ORGANISATION</a><p>
+						<p>PRENEZ CONNAISSANCE DE <a href="ressources/APG_status.pdf">NOS STATUS</a>, <a href="ressources/APG_regelement_interieur.pdf">REGLEMENT INTERIEUR ET ORGANISATION</a><p>
 						
 						<div class="form-group">
                             <input type="checkbox" name="vehicle" value="lu_approuve"><b> J'atteste sur l'honneur l'exactitude des informations précédentes et reconnais avoir LU ET ACCEPTE les Statuts et Règlement intérieur * </b><br>

@@ -5,11 +5,11 @@
                     <div class="widget">
                         <h3>Fondements</h3>
                         <ul>
-                            <li><a href="ressources/cv.pdf" download="status">Status</a></li>
-                            <li><a href="#">Règlement intérieur</a></li>
-							 <li><a href="#">Membres Fondateurs</a></li>
-							 <li><a href="#">Edito</a></li>
-							 <li><a href="#">Organisation</a></li>
+                            <li><a href="ressources/APG_status.pdf" target ="_blank">Status</a></li>
+                            <li><a href="ressources/APG_regelement_interieur.pdf" target ="_blank">Règlement intérieur</a></li>
+							<li><a href="ressources/APG_bilan_financier.pdf" target ="_blank">Bilan financier</a></li>
+							<li><a href="#">Organisation</a></li>
+							<li><a href="#">Membres Fondateurs</a></li>
 
 
                            
@@ -22,9 +22,9 @@
                         <h3>Historique</h3>
                         <ul>
 						    <li><a href="#">Pourquoi APG ?</a></li>
-							<li><a href="#">Organisation</a></li>
                             <li><a href="#">Evènements</a></li>
                             <li><a href="#">Multimédia</a></li>
+							<li><a href="#">Edito</a></li>
                             <li><a href="#">Souvenir Souvenir</a></li>
                      
                         </ul>

@@ -21,7 +21,13 @@ jQuery(function($) {'use strict',
 	
 
 $(function() {
+	if(decodeURIComponent($.urlParam('page'))=="realisation" || decodeURIComponent($.urlParam('page'))=="enCours"){
+		$('.projets').addClass('active');
+	}else if(decodeURIComponent($.urlParam('page'))=="virement"){
+		$('.participation').addClass('active');
+	}else{
 	$('.'+ decodeURIComponent($.urlParam('page'))).addClass('active');
+	}
 	});
 	
 	
