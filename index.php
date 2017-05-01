@@ -1,3 +1,12 @@
+<?php
+	$info = parse_url($_SERVER['REQUEST_URI'], PHP_URL_QUERY);	 
+    //include('vues/header.php');
+    if(isset($info)&& !empty($info))
+    {
+		list($param,$page)=explode("=",$info,2);
+	$page = explode("=", $info)[1];
+	}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="apg SITE">
     <meta name="author" content="Terrence SOUMBOU">
-    <title>Home | Action Gabon Prepas</title>
+    <title><?php echo $page?> | Action Prepas Gabon</title>
 	
 	<!-- core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -28,14 +37,14 @@
 <body class="homepage">
 
     <?php 
-          $info = parse_url($_SERVER['REQUEST_URI'], PHP_URL_QUERY);
+          //$info = parse_url($_SERVER['REQUEST_URI'], PHP_URL_QUERY);
 		 
     include('vues/header.php');
 	
     if(isset($info)&& !empty($info))
     {
-		list($param,$page)=explode("=",$info,2);
-	$page = explode("=", $info)[1];
+		//list($param,$page)=explode("=",$info,2);
+	//$page = explode("=", $info)[1];
 		 if(is_file('controller/'.$page.'.php')){
 			include ('controller/'.$page.'.php');
 		 }else{

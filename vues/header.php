@@ -1,6 +1,6 @@
    
    <header id="header">
-        <div class="top-bar">
+       <!-- <div class="top-bar">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6 col-xs-4">
@@ -24,8 +24,8 @@
                        </div>
                     </div>
                 </div>
-            </div><!--/.container-->
-        </div><!--/.top-bar-->
+            </div>
+        </div>-->
 
         <nav class="navbar navbar-inverse" role="banner">
             <div class="container">
@@ -51,7 +51,7 @@
                                 <li><a href="?page=enCours">En cours</a></li>
                             </ul>
 						</li>
-                        <li class="annuaire"> <a href="https://alumni.a-prepasgabon.com">Annuaire</a></li>
+                        <li class="annuaire"> <a href="https://alumni.a-prepasgabon.com" target="_blank">Annuaire</a></li>
                         <li class="adherer"><a href="?page=adherer">Adherer</a></li>
                         <li class="don dropdown participation"><a href="#">Don ou Cotisation <i class="fa fa-angle-down"></i></a>
 							<ul class="dropdown-menu">
