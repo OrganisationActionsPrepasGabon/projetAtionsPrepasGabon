@@ -18,7 +18,7 @@
                         <div class="media-body post_reply_content">
                                 <p class="lead">
 									Pour les paiements de la cotisation par chèque, vous pouvez envoyer vos chèques à l’adresse de l'association :<br/>
-									ACTIONS PREPAS GABON, 8 rue Armand Numès 92600 ASNIERE-SUR-SEINE, France.
+									ACTIONS PREPAS GABON, 53 Rue de la comete 92600 ASNIERE-SUR-SEINE, France.
                                 </p>
                         </div>
                 </div>

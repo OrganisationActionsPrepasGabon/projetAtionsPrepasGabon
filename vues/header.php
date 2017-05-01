@@ -9,11 +9,11 @@
                     <div class="col-sm-6 col-xs-8">
                        <div class="social">
                             <ul class="social-share">
-                                <li><a href="https://www.facebook.com/ACTIONS-PREPAS-GABON-114794448584706/"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="?page="><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="?page="><i class="fa fa-linkedin"></i></a></li> 
-                                <li><a href="?page="><i class="fa fa-dribbble"></i></a></li>
-                                <li><a href="?page="><i class="fa fa-skype"></i></a></li>
+                                <li><a href="https://www.facebook.com/ACTIONS-PREPAS-GABON-114794448584706/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://www.youtube.com/channel/UCClDVuBv4geh6L6BqXvQKkA" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                                <li><a href="?page="><i class="fa fa-linkedin" target="_blank"></i></a></li> 
+                                <li><a href="?page="><i class="fa fa-snapchat fa-2x" target="_blank"></i></a></li>
+                                <li><a href="?page="><i class="fa fa-skype" target="_blank"></i></a></li>
                             </ul>
                             <div class="search">
                                 <form role="form">
@@ -55,7 +55,7 @@
                         <li class="adherer"><a href="?page=adherer">Adherer</a></li>
                         <li class="don dropdown participation"><a href="#">Don ou Cotisation <i class="fa fa-angle-down"></i></a>
 							<ul class="dropdown-menu">
-                                <li><a href="https://www.paypal.com/webapps/hermes?token=0UA914906R040092D&useraction=commit&mfid=1489922200044_67b1b679f3b08?page=/checkout/login">PayPal</a></li>
+                                <li><a href="https://www.paypal.com/webapps/hermes?token=0J937218TY996054U&useraction=commit&mfid=1493464242824_8fa8a13383c5a#/checkout/login" target="_blank">PayPal</a></li>
                                 <li><a href="?page=virement">Virement Bancaire</a></li>
                             </ul>
 						</li> 
