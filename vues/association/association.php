@@ -1,8 +1,12 @@
     <section id="about-us">
         <div class="container">
 			<div class="center wow fadeInDown">
-				<h2>A Propos de  APG</h2>
-				<p class="lead">Action Gabon Prépas est une association d'ingénieur et de futurs ingénieurs provenant des classes préparatoires du Lycée Nationnal Léon M'ba</p>
+				<h2>Présentation</h2>
+				<p class="lead">
+					Créée le 16 Novembre 2009, ACTIONS PREPAS GABON est une association apolitique et à but non lucratif
+					qui rassemble les élèves et anciens élèves des Classes Préparatoires Scientifiques du Lycée National
+					Léon M’BA de Libreville (Gabon); communément appelés les « Taupins ». Elle s’ouvre aussi à toute personne
+					désireuse d’y adhérer selon les statuts en vigueur.</p>
 			</div>
 			
 			<!-- about us slider -->
@@ -93,7 +97,7 @@
                         <div class="feature-wrap">
                             <i class="fa fa-heart"></i>
                             <h2>Participer à des projets innovants</h2>
-                            <h3>Nos pôles d'activités élaborent, dévoloppent, et proposent des idées innovantes à nos partenaires </h3>
+                            <h3>Nos membres élaborent, dévoloppent, et proposent des idées innovantes à nos partenaires </h3>
                         </div>
                     </div><!--/.col-md-4-->
                 </div><!--/.services-->
@@ -117,23 +121,23 @@
 									<a href="#"><img class="media-object" src="images/man1.jpg" alt=""></a>
 								</div>
 								<div class="media-body">
-									<h4>Jhon Doe</h4>
-									<h5>Founder and CEO</h5>
+									<h4>DIDIER SIMBA </h4>
+									<h5>PRESIDENT</h5>
 									<ul class="tag clearfix">
-										<li class="btn"><a href="#">Web</a></li>
-										<li class="btn"><a href="#">Ui</a></li>
-										<li class="btn"><a href="#">Ux</a></li>
-										<li class="btn"><a href="#">Photoshop</a></li>
+										<li class="btn"><a href="#">ingénieur sécurité IT</a></li>
+										<li class="btn"><a href="#">entrepreneur</a></li>
+										<li class="btn"><a href="#">leadership</a></li>
+										<li class="btn"><a href="#"></a></li>
 									</ul>
 									
 									<ul class="social_icons">
 										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
-										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+										<li><a href="#"><i class="fa fa-youtube"></i></a></li>
 									</ul>
 								</div>
 							</div><!--/.media -->
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+							<p>Co fondateur de EYE Informatic, Didier SIMBA est un Ingénieur sorti d'EPITA qui se caractérise par son dynamisme et son organisation qui lui ont porté à la tête du 1er réseau d'ingénieurs gabonais.</p>
 						</div>
 					</div><!--/.col-lg-4 -->
 					
@@ -145,22 +149,24 @@
 									<a href="#"><img class="media-object" src="images/man6.png" alt=""></a>
 								</div>
 								<div class="media-body">
-									<h4>Jhon Doe</h4>
-									<h5>Founder and CEO</h5>
+									<h4>WANDRILLE OKONGO</h4>
+									<h5>COMMUNICATION</h5>
 									<ul class="tag clearfix">
-										<li class="btn"><a href="#">Web</a></li>
-										<li class="btn"><a href="#">Ui</a></li>
-										<li class="btn"><a href="#">Ux</a></li>
-										<li class="btn"><a href="#">Photoshop</a></li>
+										<li class="btn"><a href="#">DEVELOPPEUR BIG DATA</a></li>
+										<li class="btn"><a href="#">EXPERIENCE ENTREPRISE</a></li>
+										<li class="btn"><a href="#">DYNAMISME</a></li>
 									</ul>
 									<ul class="social_icons">
 										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
-										<li><a href="#"><i class="fa fa-linkedin"></i></a></li> 
+										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+										<li><a href="#"><i class="fa fa-youtube"></i></a></li>
 									</ul>
 								</div>
 							</div><!--/.media -->
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+							<p>Actuellement en Stage en développement BIG DATA à la SOCIETE GENERALE, Wandrille OKONGO assure aussi
+								l’entretien et la valorisation de l’image de l'association auprès des
+								membres et partenaires.
+							</p>
 						</div>
 					</div><!--/.col-lg-4 -->					
 				</div> <!--/.row -->
@@ -183,7 +189,7 @@
 				</div> <!--skill_border-->       
 
 				<div class="row clearfix">   
-					<div class="col-md-4 col-sm-6 col-md-offset-2">	
+					<div class="col-md-4 col-sm-6">
 						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
 							<div class="media">
 								<div class="pull-left">
@@ -191,47 +197,74 @@
 								</div>
 
 								<div class="media-body">
-									<h4>Jhon Doe</h4>
-									<h5>Founder and CEO</h5>
+									<h4>ULRICH KOUMBA</h4>
+									<h5>SECRETAIRE GENERAL</h5>
 									<ul class="tag clearfix">
-										<li class="btn"><a href="#">Web</a></li>
-										<li class="btn"><a href="#">Ui</a></li>
-										<li class="btn"><a href="#">Ux</a></li>
-										<li class="btn"><a href="#">Photoshop</a></li>
+										<li class="btn"><a href="#">conception mécanique</a></li>
+										<li class="btn"><a href="#">relationnel</a></li>
+										<li class="btn"><a href="#">flexibilité</a></li>
 									</ul>
 									<ul class="social_icons">
 										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
-										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+										<li><a href="#"><i class="fa fa-youtube"></i></a></li>
 									</ul>
 								</div>
 							</div><!--/.media -->
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+							<p>Le sécretaire générale d'ACTIONS PREPAS ACTIONS veille au bon fonctionnement matériel, administratif et juridique de l’association. Il établit les procès verbaux et assure toutes les démarches légales.</p>
 						</div>
 					</div>
-					<div class="col-md-4 col-sm-6 col-md-offset-2">
+					<div class="col-md-4 col-sm-6">
 						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
 							<div class="media">
 								<div class="pull-left">
 									<a href="#"><img class="media-object" src="images/man4.jpg" alt=""></a>
 								</div>
 								<div class="media-body">
-									<h4>Jhon Doe</h4>
-									<h5>Founder and CEO</h5>
+									<h4>DESIRE NTSAME</h4>
+									<h5>TRESORIERE</h5>
 									<ul class="tag clearfix">
-										<li class="btn"><a href="#">Web</a></li>
-										<li class="btn"><a href="#">Ui</a></li>
-										<li class="btn"><a href="#">Ux</a></li>
-										<li class="btn"><a href="#">Photoshop</a></li>
+										<li class="btn"><a href="#">système d'information</a></li>
+										<li class="btn"><a href="#">data analyst</a></li>
+										<li class="btn"><a href="#">rigueur</a></li>
 									</ul>
 									<ul class="social_icons">
 										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
-										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+										<li><a href="#"><i class="fa fa-youtube"></i></a></li>
 									</ul>
 								</div>
 							</div><!--/.media -->
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+							<p>La trésorière assure la gestion courante, tant financière que comptable de
+								l’association. Il procède à l’appel des
+								cotisations et établit un rapport financier qu’il présente en Assemblée Générale.
+							</p>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
+							<div class="media">
+								<div class="pull-left">
+									<a href="#"><img class="media-object" src="images/man4.jpg" alt=""></a>
+								</div>
+								<div class="media-body">
+									<h4>WORPHY BIMBOUTSA</h4>
+									<h5>CHEF PROJET</h5>
+									<ul class="tag clearfix">
+										<li class="btn"><a href="#">cybersécurité</a></li>
+										<li class="btn"><a href="#">management</a></li>
+										<li class="btn"><a href="#">gestion d'équipe</a></li>
+									</ul>
+									<ul class="social_icons">
+										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+										<li><a href="#"><i class="fa fa-youtube"></i></a></li>
+									</ul>
+								</div>
+							</div><!--/.media -->
+							<p> Le chef de projet supervise, organise et coordonne les intervenants des
+								différents projets existant de l’association. Il veille à l’état et au bon avancement
+								des projets.</p>
 						</div>
 					</div>
 				</div>	<!--/.row-->

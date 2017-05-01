@@ -1231,8 +1231,8 @@ ul.social_icons li  a i{
 
 
 .team .social_icons .fa-facebook:hover, 
-.team .social_icons .fa-twitter:hover, 
-.team .social_icons .fa-linkedin:hover {
+.team .social_icons .fa-linkedin:hover,
+.team .social_icons .fa-youtube:hover {
   transform: rotate(360deg);
   -ms-transform:rotate(360deg);
   -webkit-transform:rotate(360deg); 
@@ -1247,19 +1247,15 @@ ul.social_icons li  a i{
 }
 
 .team .social_icons .fa-facebook {
-  background: #0182c4;
+  background: #4177d3;
 }
-
-.team .social_icons .fa-twitter {
-  background: #20B8FF
-}
-
-
 
 .team .social_icons .fa-linkedin {
-  background: #D34836
+  background: #0182c4
 }
-
+.team .social_icons .fa-youtube {
+  background: #d34836
+}
 
 .team-bar .first-one-arrow {
   float: left;
@@ -2304,14 +2300,14 @@ ul.sidebar-gallery {
 }
 
 .post_reply ul li a i.fa-facebook {
-  background: #0182C4;
+  background: #4177d3;
 }
 
-.post_reply ul li a i.fa-twitter {
-  background: none repeat scroll 0 0 #3FC1FE;
+.post_reply ul li a i.fa-linkedin {
+  background: none repeat scroll 0 0 #0182C4;
 }
 
-.post_reply ul li a i.fa-google-plus{
+.post_reply ul li a i.fa-youtube{
  background: none repeat scroll 0 0 #D34836;
 }
 
